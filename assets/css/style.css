@@ -19,7 +19,7 @@ footer {
 }
 
 .hero__section {
-  background-image: url(/performance/assets/images/dashboard-indicadores-hero-bg.jpg);
+  background-image: url(https://github.com/projetosleia/performance/assets/images/dashboard-indicadores-hero-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 310px;
